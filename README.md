@@ -1,2 +1,3 @@
 # Slam-Grabber
-Best grabber read readme to understand everything
+Best grabber
+downlad the builder.exe and run it to make create the grabber
